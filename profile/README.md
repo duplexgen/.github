@@ -1,6 +1,6 @@
 <div align="center">
     
-# DuplexGen: Adaptive Synthesis of Human–AI Turn-Taking Dialogues
+# DuplexGen:<br>Adaptive Synthesis of Human–AI Turn-Taking Dialogues
 
 [![Project](https://img.shields.io/badge/Project%20Page-blue)](https://duplexgen.github.io)
 [![Paper](https://img.shields.io/badge/Paper(TBA)-arXiv-red)](https://duplexgen.github.io)
